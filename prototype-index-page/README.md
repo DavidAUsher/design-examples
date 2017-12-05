@@ -1,3 +1,5 @@
+![A screenshot of an index page with a list of prototypes](https://raw.githubusercontent.com/dwpdigitaltech/code-examples/master/prototype-index-page/screenshot.png)
+
 # How to use
 
 ### Step 1 - The layout

@@ -1,3 +1,9 @@
+<img src="https://raw.githubusercontent.com/dwpdigitaltech/code-examples/master/claim-history/screenshot.png" alt="A screenshot of a claim history component" height="450"/>
+
+## Services testing this component
+- Access to work
+- Bereavement Support Payment
+
 # How to use
 
 ### Step 1 - The CSS

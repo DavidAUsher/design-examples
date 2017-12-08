@@ -1,4 +1,4 @@
-# Code examples
+# Design examples
 
 A repo to hold any kind of code examples people want to share for re-use.
 

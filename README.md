@@ -1,6 +1,6 @@
 # Design examples
 
-A repo to hold any kind of code examples people want to share for re-use.
+A repo to hold examples of things people are working on that could be re-used.
 
 ## Contributing
 

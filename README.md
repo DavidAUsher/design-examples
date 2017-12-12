@@ -27,3 +27,6 @@ Notes on:
 Our "coming up" list:
 - navigation
 - search
+
+## Change log
+[View change log](/CHANGELOG.md)

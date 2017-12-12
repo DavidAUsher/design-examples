@@ -8,4 +8,4 @@ Added
 
 - backlog of design examples to look into
 
-(< back to README.md)[/README.md]
+< [back to README.md](/README.md)

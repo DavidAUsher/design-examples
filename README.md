@@ -27,6 +27,7 @@ Notes on:
 Our "coming up" list:
 - navigation
 - search
+- blue banner area (no name yet)
 
 ## Change log
 [View change log](/CHANGELOG.md)

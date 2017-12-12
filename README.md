@@ -2,6 +2,11 @@
 
 A repo to hold examples of things people are working on that could be re-used.
 
+## Examples
+
+- [claim history](/claim-history)
+- [prototype index page](/prototype-index-page)
+
 ## Contributing
 
 Add a new folder with it's own ReadMe file, giving clear instructions on how people can re-use your code.
@@ -17,3 +22,8 @@ Notes on:
 - user reserch
 - development
 - accessibility
+
+## Backlog of design examples
+Our "coming up" list:
+- navigation
+- search

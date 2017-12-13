@@ -28,6 +28,8 @@ Our "coming up" list:
 - navigation
 - search
 - blue banner area (no name yet)
+- notes
+- item management (claims etc)
 
 ## Change log
 [View change log](/CHANGELOG.md)

@@ -1,4 +1,4 @@
-# Last updated 6 December 2017
+# Last updated 14 December 2017
 
 <img src="https://raw.githubusercontent.com/dwpdigitaltech/code-examples/master/timeline/screenshot.png" alt="A screenshot of a timeline component" height="450"/>
 
@@ -23,7 +23,7 @@ The line up the side is GOVUK blue and each entry is marked with a dash creating
 
 ### User reserch
 **Bereavement**   
-The timeline has been through 6 rounds of user research.
+The timeline has been through 7 rounds of user research.
 
 The name was not originally present, but it quickly became apparent this was a need for the agents.
 
@@ -35,7 +35,7 @@ The code at the moment is prototype code. It consists of an unordered list (`<ul
 More work will be needed to determine the correct markup for each entry as the spans are currently floating between the heading and the paragraphs.
 
 ## Accessibility
-This has not been accessibility tested yet.
+This has been tested by the DWP Accessibility Compliance Team and found no issues. However, this will need tested with users, particularly if the markup changes.
 
 ---
 

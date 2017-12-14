@@ -1,10 +1,10 @@
 # Last updated 6 December 2017
 
-<img src="https://raw.githubusercontent.com/dwpdigitaltech/code-examples/master/claim-history/screenshot.png" alt="A screenshot of a claim history component" height="450"/>
+<img src="https://raw.githubusercontent.com/dwpdigitaltech/code-examples/master/timeline/screenshot.png" alt="A screenshot of a timeline component" height="450"/>
 
 ## General info
 **Name**   
-Claim history
+Timeline
 
 **Description**   
 A vertical timeline to log entries at different dates.
@@ -23,11 +23,11 @@ The line up the side is GOVUK blue and each entry is marked with a dash creating
 
 ### User reserch
 **Bereavement**   
-The claim history has been through 6 rounds of user research.
+The timeline has been through 6 rounds of user research.
 
 The name was not originally present, but it quickly became apparent this was a need for the agents.
 
-The claim history has been met with predominantly positive responses. Agents immediately know what it is and can find the information they need in it quickly.
+The timeline has been met with predominantly positive responses. Agents immediately know what it is and can find the information they need in it quickly.
 
 ## Development
 The code at the moment is prototype code. It consists of an unordered list (`<ul`), a `<h3>` tag, two `<span>` tags and `<p>` tags.
@@ -42,13 +42,13 @@ This has not been accessibility tested yet.
 # How to use
 
 ### Step 1 - The CSS
-Copy the file `_claim-history.scss` into your `app/assets/sass/` folder.
+Copy the file `_timeline.scss` into your `app/assets/sass/` folder.
 
 Open your `application.scss` file and add the following line at the bottom:
 
-```@import 'claim-history';```
+```@import 'timeline';```
 
 ### Step 2 - The HTML
-Copy the HTML wherever you want to display the claim history in your prototype. Can fit into `column-one-third` layouts.
+Copy the HTML wherever you want to display the timeline in your prototype. Can fit into `column-one-third` layouts.
 
 Edit the existing enteries or add new ones.

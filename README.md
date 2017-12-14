@@ -4,7 +4,7 @@ A repo to hold examples of things people are working on that could be re-used.
 
 ## Examples
 
-- [claim history](/claim-history)
+- [timeline](https://github.com/dwpdigitaltech/design-examples/issues/3)
 - [prototype index page](/prototype-index-page)
 
 ## Contributing

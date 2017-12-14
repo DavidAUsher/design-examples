@@ -1,14 +1,14 @@
 <!-- drag and drop a screenshot -->
 
-What problem does this design solve?
+**_What problem does this design solve?_**
 
-Which service are you researching this design on?
+**_Which service are you researching this design on?_**
 
-How have you approached the design?
+**_How have you approached the design?_**
 - have you tried anything that exists already?
 
-What have you learned from research?
+**_What have you learned from research?_**
 - include any iterations that didn't work.
 
-Have you tested this for accessibility?
+**_Have you tested this for accessibility?_**
 -  if so, what were the findings?

@@ -9,19 +9,15 @@ A repo to hold examples of things people are working on that could be re-used.
 
 ## Contributing
 
-Add a new folder with it's own ReadMe file, giving clear instructions on how people can re-use your code.
+#### Add a new design
 
-If possible, supply the following to help distinguish if this could be a pattern:
-- visual examples
-- name
-- description
-- services using it
-
-Notes on:
-- design
-- user reserch
-- development
-- accessibility
+1) Choose the issues tab.
+2) Choose 'New issue'.
+3) Enter a title: Make this as clear as possible, so that anybody searching for relevant designs is likely to find it.
+4) Drag and drop a screenshot into the text area.
+5) Answer the questions as best you can. It's not essential that you answer all of them, but it will help people gain an understanding of how the design came about, and the problem it's trying to solve.
+6) Add labels: On the right hand sidebar, you can add labels. Use these to add alternative names for your design. For example, 'Claim history' could also be called 'Timeline' or 'Event log'.
+7) When you're finished, choose the 'Submit new issue'.
 
 ## Backlog of design examples
 Our "coming up" list:

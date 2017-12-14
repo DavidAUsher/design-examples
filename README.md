@@ -26,6 +26,8 @@ Our "coming up" list:
 - blue banner area (no name yet)
 - notes
 - item management (claims etc)
+- buttons
+- file/document upload
 
 ## Change log
 [View change log](/CHANGELOG.md)

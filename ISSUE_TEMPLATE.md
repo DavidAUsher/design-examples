@@ -1,4 +1,11 @@
-<!-- drag and drop a screenshot -->
+<!-- 
+These questions are not mandatory,
+but they will help people understand the design,
+so, give as much information as you can.
+-->
+
+**_Screenshot_**
+<!-- position your text cursor below this line, then drag and drop a screenshot -->
 
 **_What problem does this design solve?_**
 
@@ -12,3 +19,6 @@
 
 **_Have you tested this for accessibility?_**
 -  if so, what were the findings?
+
+**_Link to code_**
+- if you need help publishing your code to the design-examples repo contact Colin Oakley or Craig Abbott.

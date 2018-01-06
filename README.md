@@ -11,8 +11,8 @@ A repo to hold examples of things people are working on that could be re-used.
 
 #### Add a new design
 
-1) Choose the issues tab.
-2) Choose 'New issue'.
+1) Choose the [issues tab](https://github.com/dwpdigitaltech/design-examples/issues).
+2) Choose '[New issue](https://github.com/dwpdigitaltech/design-examples/issues/new)'.
 3) Enter a title: Make this as clear as possible, so that anybody searching for relevant designs is likely to find it.
 4) Drag and drop a screenshot into the text area.
 5) Answer the questions as best you can. It's not essential that you answer all of them, but it will help people gain an understanding of how the design came about, and the problem it's trying to solve.

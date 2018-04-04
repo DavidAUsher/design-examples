@@ -39,8 +39,7 @@ The labels are set as spans so they don't really have a preference as to what
 elements you use them on. They can be applied to pretty much anything.
 
 The SCSS uses the BEM naming convention and consists of a block and a modifier. 
-By using the class `.status-label` you will get the grey block and all of its 
-properties. Applying one of the following modifier classes will change the background 
+By using the class `.status-label` you will get the grey block and all of its properties. Applying one of the following modifier classes will change the background 
 colour:
 
 ```
@@ -48,6 +47,14 @@ colour:
 .status-label--danger   // red    ($mellow-red)
 .status-label--warning  // amber  ($brown)
 .status-label--success  // green  ($grass-green)
+```
+
+There is also modifier classes for margins:
+
+```
+.status-label--margin  // margin: 3em 0;
+.status-label--margin-top  // margin-top: 3em;
+.status-label--margin-bottom  // margin-top: 3em;
 ```
 
 ## Accessibility

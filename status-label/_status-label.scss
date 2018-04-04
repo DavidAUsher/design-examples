@@ -5,7 +5,6 @@
   font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  margin-bottom: 3em;
   padding: 5px;
   text-transform: uppercase;
   width: auto;
@@ -25,4 +24,16 @@
 
 .status-label--success {
   background-color: $grass-green;
+}
+
+.status-label--margin {
+  margin-bottom: 3em 0;
+}
+
+.status-label--margin-top {
+  margin-top: 3em;
+}
+
+.status-label--margin-bottom {
+  margin-bottom: 3em;
 }

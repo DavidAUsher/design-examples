@@ -1,6 +1,6 @@
-# Last updated 22 March 2018
+# Last updated 4 April 2018
 
-<img src="screenshot.png" alt="A screenshot of the status-label component"/>
+<img src="screenshot.png" alt="A screenshot of the status-label component" width="500" />
 
 ## General info
 **Name**   

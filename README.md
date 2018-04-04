@@ -6,6 +6,8 @@ A repo to hold examples of things people are working on that could be re-used.
 
 - [timeline](https://github.com/dwpdigitaltech/design-examples/issues/3)
 - [prototype index page](/prototype-index-page)
+- [denote](https://github.com/dwp/design-examples/tree/master/denote)
+- [tabs](https://github.com/dwp/design-examples/tree/master/tabs)
 
 ## Contributing
 

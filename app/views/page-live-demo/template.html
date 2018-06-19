@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8" lang="{{ html_lang|default('en') }}"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="{{ html_lang|default('en') }}"><!--<![endif]-->
+  <head>    
+    {% include './partials/_page-title.html' %}
+    {% include './partials/_govuk-head.html' %}
+    {% include './partials/_example-styles.html' %}
+  </head>
+
+  <body style="padding:10px;">
+    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+    
+	  <main id="content" role="main">
+      <div class="grid-row">
+        <div class="column-full">
+          {% include './partials/_example-markup.html' %}
+        </div>
+      </div>
+    </main>
+
+    {% include './partials/_govuk-scripts.html' %}
+    {% include './partials/_example-scripts.html' %}
+  </body>
+</html>

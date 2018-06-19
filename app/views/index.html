@@ -1,0 +1,57 @@
+{% extends "layout.html" %}
+
+{% block page_title %}
+  GOV.UK prototype kit
+{% endblock %}
+
+{% block content %}
+	<main id="content" role="main">
+		<div class="grid-row">
+			<div class="column-two-thirds">
+				<h1 class="heading-large">
+					DWP Design Examples
+				</h1>
+				
+				<p>
+					These designs for DWP services are based on the research and experience 
+					of the DWP design community. You should use them to build on the GOV.UK 
+					design patterns.
+				</p>
+				<p>
+					These are the recommended standards for DWP service design.
+				</p>
+
+				<h2 class="heading-medium">Tried and tested designs</h2>
+				<p>
+					These are designs that have held up through many rounds of user research. 
+					They are in a stable place and are unlikely to change dramatically.
+				</p>
+				<ul class="list list-bullet">
+					<li><a href="/example/declaration">Declaration</a></li>
+				</ul>
+
+				<h2 class="heading-medium">Experimental designs</h2>
+				<p>
+					These are designs that are still being tested. They are likely to change 
+					regularly based on insights and feedback.
+				</p>
+				<ul class="list list-bullet">
+					<li><a href="/example/timeline">Global Navigation</a></li>
+					<li><a href="/example/timeline">Secondary Navigation</a></li>
+					<li><a href="/example/tabs">Tabs</a></li>
+					<li><a href="/example/tags">Tags</a></li>
+					<li><a href="/example/timeline">Timeline</a></li>
+				</ul>
+
+				<h2 class="heading-medium">Contributing</h2>
+				<p>
+					If you’re looking for something to that isn’t here, or you have 
+					something to add, you can 
+					<a href="https://github.com/dwp/design-examples/issues">
+						open an issue on GitHub
+					</a>.
+				</p>
+			</div>
+		</div>
+	</main>
+{% endblock %}

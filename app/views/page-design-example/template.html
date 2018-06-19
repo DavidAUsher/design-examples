@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+
+{% block page_title %}
+  {{content.h1}} | DWP Design Examples
+{% endblock %}
+
+{% block content %}
+	<main id="content" role="main">
+		<div class="grid-row">
+			<div class="column-two-thirds">
+				<a href="/" class="link-back">Back</a>
+
+				{% include './partials/_h1.html' %}
+				{% include './partials/_description.html' %}
+			</div>
+
+			<div class="column-full">
+				{% include './partials/_demo.html' %}
+			</div>
+
+			<div class="column-two-thirds">
+				{% include './partials/_when-to-use.html' %}
+				{% include './partials/_when-not-to-use.html' %}
+			</div>
+
+			<div class="column-full">
+				{% include './partials/_code-examples.html' %}
+			</div>
+
+
+			<div class="column-two-thirds">
+				{% include './partials/_sketch-download.html' %}
+				{% include './partials/_how-to-use.html' %}
+				{% include './partials/_research.html' %}
+				{% include './partials/_services.html' %}
+				{% include './partials/_discuss-on-github.html' %}
+			</div>
+		</div>
+	</main>
+{% endblock %}

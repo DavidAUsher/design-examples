@@ -2,10 +2,18 @@
 
 What we've added, changed, and taken away with every release.
 
-## 12/12/2017
+## June 2018
+Added:
+- Global navigation
+- Secondary navigation
+- Frontend application with code examples
 
-Added 
+## May 2018
+Added:
+- Tags
+- Tabs
 
-- backlog of design examples to look into
-
-< [back to README.md](/README.md)
+## April 2018
+Added:
+- Timeline
+- Declaration

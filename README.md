@@ -4,10 +4,12 @@ A repo to hold examples of things people are working on that could be re-used.
 
 ## Examples
 
-- [timeline](https://github.com/dwpdigitaltech/design-examples/issues/3)
-- [prototype index page](/prototype-index-page)
-- [denote](https://github.com/dwp/design-examples/tree/master/denote)
-- [tabs](https://github.com/dwp/design-examples/tree/master/tabs)
+- [declaration](https://dwp-design-examples.herokuapp.com/example/declaration)
+- [global navigation](https://dwp-design-examples.herokuapp.com/example/navigation-global)
+- [secondary navigation](https://dwp-design-examples.herokuapp.com/example/navigation-secondary)
+- [tabs](https://dwp-design-examples.herokuapp.com/example/tabs)
+- [tags](https://dwp-design-examples.herokuapp.com/example/tags)
+- [timeline](https://dwp-design-examples.herokuapp.com/example/timeline)
 
 ## Contributing
 
@@ -23,13 +25,12 @@ A repo to hold examples of things people are working on that could be re-used.
 
 ## Backlog of design examples
 Our "coming up" list:
-- navigation
-- search
-- blue banner area (no name yet)
-- notes
-- item management (claims etc)
 - buttons
+- blue banner area (no name yet)
 - file/document upload
+- item management (claims etc)
+- notes
+- search
 
 ## Change log
 [View change log](/CHANGELOG.md)

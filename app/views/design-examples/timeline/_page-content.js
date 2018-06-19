@@ -38,12 +38,7 @@ module.exports = {
       <li>Access to work</li>
     </ul>
   `,
-  stillToDo: `
-    <p>
-      More work is needed to define the code syntax. For example, should 
-      ‘by John Smith’ be part of the heading for screen readers?
-    </p>  
-  `,
+  stillToDo: ``,
   discussion: {
     linkText: 'Discuss the timeline on GitHub',
     linkURL: 'https://github.com/dwp/design-examples/issues/3'

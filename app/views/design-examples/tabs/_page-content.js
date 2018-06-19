@@ -25,6 +25,7 @@ module.exports = {
       together that is unrelated.
     </p>
   `,
+  howToUse: ``,
   research: `
     <ul class="list list-bullet">
       <li>User type: Agents</li>
@@ -38,6 +39,7 @@ module.exports = {
       <li>Access to Work Integrated System</li>
     </ul>
   `,
+  stillToDo: ``,
   discussion: {
     linkText: 'Discuss tabs on GitHub',
     linkURL: 'https://github.com/dwp/design-examples/issues/13'

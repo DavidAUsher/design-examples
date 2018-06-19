@@ -23,6 +23,7 @@ module.exports = {
       use the <a href="/example/navigation-global">global navigation</a> instead.
     </p>
   `,
+  howToUse: ``,
   research: `
     <ul class="list list-bullet">
       <li>User type: Agents</li>
@@ -35,6 +36,7 @@ module.exports = {
       <li>Move to Universal Credit</li>
     </ul>
   `,
+  stillToDo: ``,
   discussion: {
     linkText: 'Discuss secondary navigation on GitHub',
     linkURL: 'https://github.com/dwp/design-examples/issues/4'

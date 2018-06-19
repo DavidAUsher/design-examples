@@ -29,6 +29,7 @@ module.exports = {
       a catch all method to bypass good content design in the rest of your service.
     </p>
   `,
+  howToUse: ``,
   research: `
     <ul class="list list-bullet">
       <li>User type: Citizens</li>
@@ -40,6 +41,7 @@ module.exports = {
       <li>Check your State Pension</li>
     </ul>
   `,
+  stillToDo: ``,
   discussion: {
     linkText: 'Discuss declarions on GitHub',
     linkURL: 'https://github.com/dwp/design-examples/issues/11'

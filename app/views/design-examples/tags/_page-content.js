@@ -23,6 +23,7 @@ module.exports = {
       To follow.
     </p>
   `,
+  howToUse: ``,
   research: `
     <ul class="list list-bullet">
       <li>User type: Citizens and agents</li>
@@ -34,6 +35,7 @@ module.exports = {
       <li>Manage Bereavement Support Payment</li>
     </ul>
   `,
+  stillToDo: ``,
   discussion: {
     linkText: 'Discuss declarions on GitHub',
     linkURL: 'https://github.com/dwp/design-examples/issues/9'

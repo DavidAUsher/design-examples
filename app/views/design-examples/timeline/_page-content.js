@@ -4,19 +4,28 @@ module.exports = {
   status: 1,
   description: `
     <p>
-      A way to display a list of actions that have been done.
+      The timeline is a way to display updates to something or actions that have 
+      been done. For example a claim history.
     </p>
   `,
   whenToUse: `
     <p>
-      To follow. 
+      Use the timeline when you need to show a list of entries that can be 
+      followed in chronological order.
+    </p>
+    <p>
+      The timeline has currently only been researched in agent-facing systems so 
+      you will need to research it thouroughly in a citizen-facing service.
     </p>
   `,
   whenNotToUse: `
     <p>
-      To follow
+      The timeline should not mix past and future events. If you need to show 
+      both past and future events, show them as separate timelines or use an 
+      alternative design.
     </p>
   `,
+  howToUse: ``,
   research: `
     <ul class="list list-bullet">
       <li>User type: Agents</li>
@@ -28,6 +37,12 @@ module.exports = {
       <li>Manage Bereavement Support Payment</li>
       <li>Access to work</li>
     </ul>
+  `,
+  stillToDo: `
+    <p>
+      More work is needed to define the code syntax. For example, should 
+      ‘by John Smith’ be part of the heading for screen readers?
+    </p>  
   `,
   discussion: {
     linkText: 'Discuss the timeline on GitHub',

@@ -42,22 +42,11 @@ module.exports = {
   `,
   howToUse: `
     <p>
-      For prototyping, this navigation can be used bye placing it in the 
+      For prototyping, this navigation can be used by placing it in the 
       after_header block. Eg: <code class="language-js">{% block after_header %}...{% endblock %}</code>. 
       However, it should be noted that in production the navigation should be 
       inside of the header tag.
     </p>
-    <p>
-      To remove the blue bar under the main header you will also need the 
-      following CSS:
-    </p>
-    <pre>
-      <code class="language-css">
-#global-header-bar {
-  display: none;
-}
-      </code>
-    </pre>
   `,
   servicesUsing: `
     <ul class="list list-bullet">

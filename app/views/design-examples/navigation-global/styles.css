@@ -1,3 +1,7 @@
+#global-header-bar {
+  display: none;
+}
+
 .navigation-global ul:after {
   content: "";
   display: block;

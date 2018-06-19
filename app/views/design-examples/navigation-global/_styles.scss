@@ -1,6 +1,10 @@
 @import 'colours';
 @import 'shims';
 
+#global-header-bar {
+  display: none;
+}
+
 .navigation-global {
   background: $panel-colour;
 

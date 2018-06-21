@@ -1,0 +1,65 @@
+@import 'colours';
+
+.key-details-bar {
+  background-color: $govuk-blue;
+
+  .key-details-bar__key-details {
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 30px;
+    position: relative;
+
+    * {
+      color: $white;
+    }
+
+    dd,
+    dt {
+      display: inline;
+      @media(max-width: 670px) {
+        display: block;
+      }
+    }
+
+    dd {
+      margin-right: 20px;
+      @media(max-width: 670px) {
+        margin-bottom: 20px;
+      }
+    }
+
+    .key-details-bar__name {
+      font-size: 36px;
+      font-weight: 700;
+    }
+
+    .key-details-bar__nino {
+      font-size: 24px;
+      margin-right: 0;
+
+      &::after {
+        border-bottom: 1px solid $white;
+        content: ' ';
+        display: block;
+        opacity: .3;
+        @media(max-width: 670px) {
+          border: 0;
+        }
+      }
+    }
+
+    .key-details-bar__status {
+      background-color: $white;
+      color: $govuk-blue;
+      font-weight: 700;
+      padding: 5px;
+      position: absolute;
+      right: 30px;
+      text-transform: uppercase;
+      top: 40px;
+      @media(max-width: 670px) {
+        position: static;
+      }
+    }
+  }
+}

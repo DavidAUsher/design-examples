@@ -5,8 +5,14 @@
 .key-details-bar .key-details-bar__key-details {
   margin: 0 auto;
   max-width: 960px;
-  padding: 30px;
+  padding: 20px 30px;
   position: relative;
+}
+
+@media (max-width: 670px) {
+  .key-details-bar .key-details-bar__key-details {
+    padding: 20px 15px;
+  }
 }
 
 .key-details-bar .key-details-bar__key-details * {
@@ -24,6 +30,7 @@
   border-top: 1px solid rgba(255, 255, 255, 0.3);
   content: ' ';
   padding-top: 10px;
+  margin-top: 10px;
 }
 
 @media (max-width: 670px) {
@@ -35,12 +42,16 @@
 .key-details-bar .key-details-bar__key-details dd,
 .key-details-bar .key-details-bar__key-details dt {
   float: left;
+  font-size: 19px;
+  margin-right: 5px;
 }
 
 @media (max-width: 670px) {
   .key-details-bar .key-details-bar__key-details dd,
   .key-details-bar .key-details-bar__key-details dt {
     float: none;
+    font-size: 16px;
+    margin: 0;
   }
 }
 
@@ -52,24 +63,30 @@
   .key-details-bar .key-details-bar__key-details dd {
     margin-bottom: 20px;
   }
+  .key-details-bar .key-details-bar__key-details dd:last-of-type {
+    margin-bottom: 0;
+  }
 }
 
 .key-details-bar .key-details-bar__key-details .key-details-bar__name {
   font-size: 36px;
   font-weight: 700;
+  line-height: 1.11111;
 }
 
 @media (max-width: 670px) {
   .key-details-bar .key-details-bar__key-details .key-details-bar__name {
-    line-height: 1;
+    font-size: 24px;
+    line-height: 1.04167;
     margin: 0;
   }
 }
 
 .key-details-bar .key-details-bar__key-details .key-details-bar__nino {
   font-size: 24px;
+  line-height: 1;
   margin-right: 0;
-  margin-top: 14px;
+  margin-top: 12px;
 }
 
 @media (max-width: 670px) {
@@ -79,17 +96,24 @@
 }
 
 .key-details-bar .key-details-bar__key-details .key-details-bar__status {
-  background-color: #fff;
-  color: #005ea5;
-  float: right;
+  font-size: 16px;
   font-weight: 700;
-  margin-top: 10px;
-  padding: 5px;
+  line-height: 1.25;
+  display: inline-block;
+  padding: 5px 8px 0;
+  color: #005ea5;
+  background-color: #fff;
+  letter-spacing: 1px;
+  text-decoration: none;
   text-transform: uppercase;
+
+  float: right;
+  margin: 5px 0 0;
 }
 
 @media (max-width: 670px) {
   .key-details-bar .key-details-bar__key-details .key-details-bar__status {
+    font-size: 14px;
     float: none;
     margin-top: 0;
   }

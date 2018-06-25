@@ -7,17 +7,11 @@
     {% include './partials/_example-styles.html' %}
   </head>
 
-  <body style="padding:10px;">
+  <body>
     <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
     
-	  <main id="content" role="main">
-      <div class="grid-row">
-        <div class="column-full">
-          {% include './partials/_example-markup.html' %}
-        </div>
-      </div>
-    </main>
-
+    {% include './partials/_example-markup.html' %}
+       
     {% include './partials/_govuk-scripts.html' %}
     {% include './partials/_example-scripts.html' %}
   </body>

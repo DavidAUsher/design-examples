@@ -50,16 +50,8 @@ $white-transparent: rgba(255, 255, 255, .3);
 
     dd {
       margin-right: 20px;
-
-      +dd {
-        margin-left: -15px;
-      }
       @media(max-width: 670px) {
         margin-bottom: 20px;
-
-        +dd {
-          margin: -20px 0 20px 0;
-        }
 
         &:last-of-type {
           margin-bottom: 0;
@@ -105,6 +97,7 @@ $white-transparent: rgba(255, 255, 255, .3);
       float: right;
       margin: 5px 0 0;
       @media(max-width: 670px) {
+        font-size: 14px;
         float: left;
         clear: both;
         margin-top: 5px;

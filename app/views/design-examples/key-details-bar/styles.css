@@ -59,16 +59,9 @@
   margin-right: 20px;
 }
 
-.key-details-bar .key-details-bar__key-details dd + dd {
-  margin-left: -15px;
-}
-
 @media (max-width: 670px) {
   .key-details-bar .key-details-bar__key-details dd {
     margin-bottom: 20px;
-  }
-  .key-details-bar .key-details-bar__key-details dd + dd {
-    margin: -20px 0 20px 0;
   }
   .key-details-bar .key-details-bar__key-details dd:last-of-type {
     margin-bottom: 0;
@@ -121,6 +114,7 @@
 
 @media (max-width: 670px) {
   .key-details-bar .key-details-bar__key-details .key-details-bar__status {
+    font-size: 14px;
     float: left;
     clear: both;
     margin-top: 5px;

@@ -63,7 +63,8 @@
 
     &:hover {
       background: $govuk-blue;
-      text-decoration: underline;      
+      text-decoration: underline;
+      color: $white;
     }
   }
 }

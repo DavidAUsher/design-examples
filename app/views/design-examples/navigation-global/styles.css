@@ -68,5 +68,6 @@
 
 .navigation-global .active:hover {
   background: #005ea5;
+  color: #fff;
   text-decoration: underline;
 }

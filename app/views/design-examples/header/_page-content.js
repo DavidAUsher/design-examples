@@ -7,7 +7,7 @@ module.exports = {
        All services have a header, for internal services we use a slight variation on the one from GOV.UK
       </p>
 
-      <p> For public facing services see the <a href="https://design-system.service.gov.uk/styles/page-template/">page template</a> within the design system.
+      <p> For public facing services see the <a href="https://design-system.service.gov.uk/styles/page-template/">page template</a> within the design system.</p>
     
       `,
     whenToUse: `

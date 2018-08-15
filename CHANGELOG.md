@@ -2,6 +2,10 @@
 
 What we've added, changed, and taken away with every release.
 
+## August 2018
+Added:
+- Headers
+
 ## June 2018
 Added:
 - Global navigation

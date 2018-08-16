@@ -6,7 +6,7 @@ A repo to hold examples of things people are working on that could be re-used.
 
 - [declaration](https://dwp-design-examples.herokuapp.com/example/declaration)
 - [global navigation](https://dwp-design-examples.herokuapp.com/example/navigation-global)
-- [headers](https://dwp-design-examples.herokuapp.com/example/headers)
+- [header](https://dwp-design-examples.herokuapp.com/example/header)
 - [secondary navigation](https://dwp-design-examples.herokuapp.com/example/navigation-secondary)
 - [tabs](https://dwp-design-examples.herokuapp.com/example/tabs)
 - [tags](https://dwp-design-examples.herokuapp.com/example/tags)

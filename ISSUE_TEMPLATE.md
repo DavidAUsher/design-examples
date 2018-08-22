@@ -4,21 +4,21 @@ but they will help people understand the design,
 so, give as much information as you can.
 -->
 
-**_Screenshot_**
+## Screenshot
 <!-- position your text cursor below this line, then drag and drop a screenshot -->
 
-**_What problem does this design solve?_**
+## What problem does this design solve?
 
-**_Which service are you researching this design on?_**
+## Which service are you researching this design on?
 
-**_How have you approached the design?_**
+## How have you approached the design?
 - have you tried anything that exists already?
 
-**_What have you learned from research?_**
+## What have you learned from research?
 - include any iterations that didn't work.
 
-**_Have you tested this for accessibility?_**
+## Have you tested this for accessibility?
 -  if so, what were the findings?
 
-**_Link to code_**
+## Link to code
 - if you need help publishing your code to the design-examples repo contact Colin Oakley or Craig Abbott.

@@ -44,6 +44,8 @@ module.exports = {
     <ul class="list list-bullet">
       <li>Manage Bereavement Support Payment</li>
       <li>Access to work</li>
+      <li>Prepare for Universal Credit</li>
+      <li>Support for Mortgage Interest</li>
     </ul>
   `,
   stillToDo: ``,

@@ -1,7 +1,7 @@
 module.exports = {
   h1: 'Timeline',
   // status: 1 = experimental, 2 = tried and tested, 3 = recommended
-  status: 1,
+  status: 2,
   description: `
     <p>
       The timeline is a way to display updates to something or actions that have 
@@ -14,6 +14,10 @@ module.exports = {
       followed in chronological order.
     </p>
     <p>
+      The timeline should use give a brief overview of what has happened, and not used 
+      to display large bodies of text.
+    </p>
+    <p>
       The timeline has currently only been researched in agent-facing systems so 
       you will need to research it thouroughly in a citizen-facing service.
     </p>
@@ -23,6 +27,10 @@ module.exports = {
       The timeline should not mix past and future events. If you need to show 
       both past and future events, show them as separate timelines or use an 
       alternative design.
+    </p>
+    <p>
+      The timeline should not be used as a dumping ground for notes. It is to 
+      give an understanding of what has happened, not all the details of the task.
     </p>
   `,
   howToUse: ``,

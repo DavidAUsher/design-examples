@@ -1,10 +1,10 @@
 @import 'colours';
 
-.timeline {
+.dwp-timeline {
   border-left: 3px solid $govuk-blue;
 }
 
-.timeline-entry {
+.dwp-timeline__entry {
   margin: 2em 0;
   padding-left: 1em;
   position: relative;
@@ -19,22 +19,22 @@
     width: 10px;
   }
 
-  .timeline-title {
+  .dwp-timeline__title {
     display: block;
     font-weight: 700;
   }
 
-  .timeline-author,
-  .timeline-date {
+  .dwp-timeline__author,
+  .dwp-timeline__date {
     color: $secondary-text-colour;
     display: block;
   }
 
-  .timeline-info {
+  .dwp-timeline__info {
     margin-top: 0;
   }
 
-  .timeline-body {
+  .dwp-timeline__body {
     display: block;
   }
 }

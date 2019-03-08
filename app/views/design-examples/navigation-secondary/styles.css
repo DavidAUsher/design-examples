@@ -13,6 +13,7 @@
 .navigation-secondary ul {
   margin: 0 auto;
   max-width: 960px;
+  padding-left: 0;
 }
 
 .navigation-secondary li {
